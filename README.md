@@ -1,4 +1,8 @@
-### Hi there 👋
+<div>
+	<br>
+		<img src="header.svg" width="800" height="120">
+	<br>
+</div>
 
 <!--
 **theredditbandit/theredditbandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
