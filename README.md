@@ -1,6 +1,7 @@
 # Hi there 👋
 Fancy seeing you here.
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=124172eb5f4a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ## ✨ Projects Im done with ✨
  - [wc](https://github.com/theredditbandit/wc) a slightly worse implementation of GNU wc in go.
  - [http-server](https://github.com/theredditbandit/http-server) an async http server implemented from scratch in python.
@@ -26,7 +27,7 @@ I have made a total of 3 opensource contributions. They are listed below.
 
 ## Rest of the stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=theredditbandit&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/theredditbandit/github-readme-stats#gh-dark-mode-only)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=theredditbandit&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/theredditbandit/github-readme-stats#gh-dark-mode-only)     
 <!--
 **theredditbandit/theredditbandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
