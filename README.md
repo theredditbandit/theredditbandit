@@ -6,6 +6,7 @@ Fancy seeing you here.
  - [wc](https://github.com/theredditbandit/wc) a slightly worse implementation of GNU wc in go.
  - [pman](https://github.com/theredditbandit/pman) a CLI project manager written in go.
  - [http-server](https://github.com/theredditbandit/http-server) an async http server implemented from scratch in python.
+ - [redis-at-home](https://github.com/theredditbandit/redis-at-home) a toy implementation of redis in go.
  - [comments-nlp](https://github.com/theredditbandit/comments-nlp) sentiment analysis on youtube comments using python.
  - [blockchain](https://github.com/theredditbandit/blockchain) A simple implementation of blockchain in python.
  - [awesome-cybersec](https://github.com/theredditbandit/awesome-cybersec) collection of platforms, blogs, documents, books, resources and all things cyber security.
@@ -13,7 +14,6 @@ Fancy seeing you here.
 
 ## 🔭 I’m currently working on 🔭
  - [quiz](https://github.com/theredditbandit/quiz) a sophisticated quiz system for the terminal in go.
- - [redis-at-home](https://github.com/theredditbandit/redis-at-home) a toy implementation of redis in go.
  - [bittorrent-at-home](https://github.com/theredditbandit/bittorrent-at-home) a toy bittorrent client in go.
  - [aoc-buddy](https://github.com/theredditbandit/aoc-buddy) a cli helper for setting up advent of code challenges.
  - Improving [comments-nlp](https://github.com/theredditbandit/comments-nlp) performing Sentiment analysis on Youtube comments using python.
