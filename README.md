@@ -4,6 +4,7 @@ Fancy seeing you here.
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=124172eb5f4a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ## ✨ Projects Im done with ✨
  - [wc](https://github.com/theredditbandit/wc) a slightly worse implementation of GNU wc in go.
+ - [pman](https://github.com/theredditbandit/pman) a CLI project manager written in go.
  - [http-server](https://github.com/theredditbandit/http-server) an async http server implemented from scratch in python.
  - [comments-nlp](https://github.com/theredditbandit/comments-nlp) sentiment analysis on youtube comments using python.
  - [blockchain](https://github.com/theredditbandit/blockchain) A simple implementation of blockchain in python.
