@@ -28,7 +28,7 @@ I have made a total of 3 opensource contributions. They are listed below.
 Solutions to various coding challenges found online.
 - [Advent of Code](https://github.com/theredditbandit/advent-of-code)
 - [Hackattic](https://github.com/theredditbandit/hackattic)
-- [Codingquest](https://github.com/theredditbandit/codingquest)
+- [Protohackers](https://github.com/theredditbandit/protohackers)
 
 ## 📫 Ping me on discord @`_thelastmethbender` to get in touch.
 
