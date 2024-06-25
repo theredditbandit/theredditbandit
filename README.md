@@ -10,6 +10,7 @@ Fancy seeing you here.
  - [comments-nlp](https://github.com/theredditbandit/comments-nlp) sentiment analysis on youtube comments using python.
  - [blockchain](https://github.com/theredditbandit/blockchain) A simple implementation of blockchain in python.
  - [awesome-cybersec](https://github.com/theredditbandit/awesome-cybersec) collection of platforms, blogs, documents, books, resources and all things cyber security.
+ - [tourify](https://github.com/touriFYI/tourify) a travel planner that uses the google maps api to fetch hotels and restraunts for your journey.
 
 
 ## 🔭 I’m currently working on 🔭
