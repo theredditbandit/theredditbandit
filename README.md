@@ -11,6 +11,7 @@ Fancy seeing you here.
  - [blockchain](https://github.com/theredditbandit/blockchain) A simple implementation of blockchain in python.
  - [awesome-cybersec](https://github.com/theredditbandit/awesome-cybersec) collection of platforms, blogs, documents, books, resources and all things cyber security.
  - [tourify](https://github.com/touriFYI/tourify) a travel planner that uses the google maps api to fetch hotels and restraunts for your journey.
+ - [sauve-supernovae](https://github.com/theredditbandit/suave-supernovae/) a discord bot with features like conversation summary and semantic question answering with ai.
 
 
 ## 🔭 I’m currently working on 🔭
