@@ -15,10 +15,11 @@ Fancy seeing you here.
 
 
 ## 🔭 I’m currently working on 🔭
- - [quiz](https://github.com/theredditbandit/quiz) a sophisticated quiz system for the terminal in go.
- - [bittorrent-at-home](https://github.com/theredditbandit/bittorrent-at-home) a toy bittorrent client in go.
- - [aoc-buddy](https://github.com/theredditbandit/aoc-buddy) a cli helper for setting up advent of code challenges.
- - Improving [comments-nlp](https://github.com/theredditbandit/comments-nlp) performing Sentiment analysis on Youtube comments using python.
+ - [psps](https://github.com/theredditbandit/psps) a lisp interpreter implemented in C.
+ - [jason](https://github.com/theredditbandit/jason) a json parser written in go.
+ - [stitch](https://github.com/theredditbandit/stitch) reimagining the qr code format.
+ - [Advent of Code](https://github.com/theredditbandit/advent-of-code) since it's december.
+
 
 ## 🌐🛠️ Opensource Contributions.
 I have made a total of 3 opensource contributions. They are listed below.
