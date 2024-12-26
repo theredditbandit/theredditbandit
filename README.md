@@ -18,7 +18,6 @@ Fancy seeing you here.
  - [psps](https://github.com/theredditbandit/psps) a lisp interpreter implemented in C.
  - [jason](https://github.com/theredditbandit/jason) a json parser written in go.
  - [stitch](https://github.com/theredditbandit/stitch) reimagining the qr code format.
- - [Advent of Code](https://github.com/theredditbandit/advent-of-code) since it's december.
  - [tig](https://github.com/theredditbandit/tig) git implemented in go.
 
 
